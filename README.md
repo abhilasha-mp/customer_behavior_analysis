@@ -1,4 +1,6 @@
 📊 Data Analysis Project README
+
+
 🧩 Overview
 This project demonstrates a complete data analysis workflow from raw data ingestion to business insights presentation. It includes Python-based data exploration, SQL querying, Power BI dashboarding, and report generation. The final deliverables are a comprehensive report and a presentation built using Gamma.
 📁 Dataset
