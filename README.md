@@ -11,33 +11,33 @@ This project demonstrates a complete data analysis workflow from raw data ingest
 * Load Dataset
 - Import CSV using Pandas
 - Inspect structure and data types
-- 
+ 
 * Exploratory Data Analysis (EDA)
 - Summary statistics
 - Missing value analysis
 - Visualizations (histograms, box plots, correlations)
-- 
+  
 * Data Cleaning
 - Handle nulls and duplicates
 - Normalize formats (dates, categories)
 - Feature engineering
-- 
+
 * SQL Integration
 - Load cleaned data into MySQL
 - Run queries for segmentation, aggregation, and filtering
-- 
+  
 * Dashboard Creation
 - Connect Power BI to MySQL
 - Build visuals: KPIs, trends, filters, drill-downs
-- 
+
 * Report Writing
 - Summarize findings, insights, and recommendations
 - Include visuals and SQL outputs
-- 
+
 * Presentation
 - Create a Gamma deck to showcase key insights
 - Tailor for business stakeholders and recruiters
-- 
+
 🛠️ Tools & Technologies
 - Python: Used for loading the dataset, performing exploratory data analysis (EDA), and cleaning the data. Key libraries include Pandas for data manipulation and NumPy for numerical operations.
 - Matplotlib & Seaborn: Utilized for visualizing data distributions, trends, and relationships during the EDA phase.
